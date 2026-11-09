@@ -2,6 +2,17 @@
 
 [美区 Apple ID 共享账号获取与使用指南：为什么下载 Shadowrocket（小火箭）、ChatGPT、TikTok 必须用美区账号，美区共享号怎么登录、怎么退出、遇到密码错误或账号锁定怎么办。另附美区/港区/台区/日区/韩区/土耳其区独享老号现货入口，自动发货、可转区、带密保。](https://nbid666.com/products)
 
+
+<p align="center"><b>👇 三个都是按钮，点哪个进哪个</b></p>
+
+<p align="center">
+  <a href="https://nbid666.com/products" title="各区独享老号现货，带密保、可转区、自动发货"><img src="assets/all_buy.png" alt="各区老号 · 立即购买" height="68"></a>
+  <br><br>
+  <a href="https://id.tangping.icu/" title="免费共享取号，密码定期轮换，失效自动重置"><img src="assets/all_free.png" alt="免费共享 · 立即取号" height="68"></a>
+  <br><br>
+  <a href="https://nbid666.com/products" title="全部地区现货，可对比价格"><img src="assets/all_regions.png" alt="全部地区 · 对比价格" height="68"></a>
+</p>
+
 > 最近更新：2026-11-10
 
 
